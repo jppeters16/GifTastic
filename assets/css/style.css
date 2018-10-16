@@ -1,0 +1,40 @@
+body {
+    background-image: url("../images/wavy-dots.png");
+}
+img {
+    padding: 5px;
+    border-radius: 25px;
+}
+h1 {
+    font-family: 'Pacifico', cursive;
+    margin: 25px 0 25px 0;
+}
+.individual-gif-container {
+    margin: 10px 0 10px 0;
+    padding: 5px;
+    border: 2px;
+    background-color: white;
+    font-size: 28px;
+}
+.sports-button {
+    margin: 3px;
+}
+.col-md-3 {
+    padding: 0;
+}
+.inputArea {
+    margin: 25px 0 25px 0;
+    padding: 10px;
+}
+#gif-container {
+    text-align: center;
+    margin-top: 17px;
+    padding: 0;
+}
+#userInput {
+    width: 100%;
+    margin: 5px 0 5px 0;
+}
+#submit {
+    margin-top: 5px;
+}
